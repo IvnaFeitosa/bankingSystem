@@ -1,4 +1,4 @@
-# Banking System API
+# Banking System API 🏦
 
 This is a banking API system developed with Python, Django, Django REST Framework, and SQLite as the database.
 
@@ -50,3 +50,17 @@ python manage.py runserver
 - customers/(account id)/
 - customers/withdrawal/(account id)/
 - customers/balance/(account id)/
+
+## Responsible for the Project
+
+This project was developed by:
+
+💻 **Ivna Feitosa**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ivnafeitosadev/)  
+🔗 Email: ivnacontato.dev@gmail.com
+💁 Contact me for questions or feedback! :smile:
+
+
+
+
+
